@@ -36,7 +36,9 @@ The above heatmap clearly portrays Males as the highest users, commuting from wo
 Most of the subscibers are male and they use the service on weekdays.  Non-subscribers are the ones who use the service during the weekend.
 
 ## Map for Bike Repairs
+
 ![alt text](https://github.com/nikmahadeshwar/NYC_Citibike_Challenge/blob/main/Screen%20Shot%202021-10-31%20at%204.38.46%20PM.png)
+
 The above graph demonstrates the bike usage per user with unique bike id. It clearly depicts that the max usage is 479. Most of the bikes are used regularly and might need to be repaired in near future.
 
 ## Created the map for General Breakdown
